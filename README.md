@@ -1,4 +1,4 @@
-# AutoApiSecret-加密版
+# AutoApiSecret-加密版01
 AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApiP 1
 
 # 请跳转最新版 #
